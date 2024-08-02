@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Ad Banner 1",
+      "description": "This is the first ad banner.",
+      "cta": "Click Here",
+      "image": "/images/ad1.jpg",
+      "backgroundColor": "#e0f7fa"
+    },
+    {
+      "title": "Ad Banner 2",
+      "description": "This is the second ad banner.",
+      "cta": "Learn More",
+      "image": "/images/ad2.jpg",
+      "backgroundColor": "#ffeb3b"
+    }
+  ]
+  

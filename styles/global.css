@@ -1,0 +1,55 @@
+/* styles/global.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #0070f3;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.ad-banner {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.ad-banner img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.ad-banner h2 {
+  margin: 10px 0;
+}
+
+.ad-banner p {
+  color: #666;
+}
+
+.ad-banner button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.ad-banner button:hover {
+  background-color: #005bb5;
+}
